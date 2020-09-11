@@ -23,7 +23,7 @@ https://www.emojiall.com/zh-hant
 
 - [前端 - 無極無盡部落格(建置中)](https://powerkaifu.github.io/)🛠
 
-<img src="https://github.com/powerkaifu/powerkaifu.github.io/blob/master/images/kaifu-3.jpg" width="300" style="position:absolute;top:0;right:0;border-radius:50%;">
+<img src="https://github.com/powerkaifu/powerkaifu.github.io/blob/master/images/kaifu-3.jpg" width="300" style="border-radius:50%;">
 
 [![](https://raw.githubusercontent.com/powerkaifu/github-profile-summary-cards/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
