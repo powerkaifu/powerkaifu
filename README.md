@@ -19,7 +19,7 @@ https://www.emojiall.com/zh-hant
 
 -->
 
-### 進行中
+### 進行中...
 
 - [前端 - 無極無盡部落格(建置中)](https://powerkaifu.github.io/)🛠
 
