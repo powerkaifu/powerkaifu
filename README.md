@@ -21,7 +21,7 @@ https://www.emojiall.com/zh-hant
 
 ### 進行中...
 
-- [前端 - 無極無盡部落格(建置中)](https://powerkaifu.github.io/)🛠
+- [AFUの前端夜想曲 (建置中)](https://powerkaifu.github.io/)🛠
 
 [![](https://raw.githubusercontent.com/powerkaifu/github-profile-summary-cards/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
