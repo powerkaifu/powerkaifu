@@ -31,9 +31,6 @@ https://www.emojiall.com/zh-hant
   </a>
   <a href="https://github.com/powerkaifu/github-profile-summary-cards">
     <img width="200" src="https://raw.githubusercontent.com/powerkaifu/github-profile-summary-cards/master/profile-summary-card-output/monokai/3-stats.svg" />
-    <img width="500"
-      src="https://raw.githubusercontent.com/powerkaifu/github-profile-summary-cards/master/profile-summary-card-output/monokai/2-most-commit-language.svg"
-    />
   </a>
 </div>
 
