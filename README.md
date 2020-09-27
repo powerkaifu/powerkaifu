@@ -26,13 +26,13 @@ https://www.emojiall.com/zh-hant
 <div style="display: flex; flex-wrap: wrap;">
   <a href="https://github.com/powerkaifu/github-profile-summary-cards">
     <img
-      width="80%"
+      width="75%"
       src="https://raw.githubusercontent.com/powerkaifu/github-profile-summary-cards/master/profile-summary-card-output/monokai/0-profile-details.svg"
     />
   </a>
   <a right: 0;top:0;" href="https://github.com/powerkaifu/github-profile-summary-cards">
     <img
-      width="20%"
+      width="25%"
       src="https://raw.githubusercontent.com/powerkaifu/github-profile-summary-cards/master/profile-summary-card-output/monokai/3-stats.svg"
     />
   </a>
