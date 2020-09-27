@@ -30,7 +30,7 @@ https://www.emojiall.com/zh-hant
       width="100%"
     />
   </a>
-  <a href="https://github.com/powerkaifu/github-profile-summary-cards" style="width: 80%">
+  <a href="https://github.com/powerkaifu/github-profile-summary-cards">
     <img
       src="https://raw.githubusercontent.com/powerkaifu/github-profile-summary-cards/master/profile-summary-card-output/monokai/2-most-commit-language.svg"
     />
