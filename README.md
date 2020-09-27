@@ -30,7 +30,7 @@ https://www.emojiall.com/zh-hant
       src="https://raw.githubusercontent.com/powerkaifu/github-profile-summary-cards/master/profile-summary-card-output/monokai/0-profile-details.svg"
     />
   </a>
-  <a style="position: absolute; right: 0" href="https://github.com/powerkaifu/github-profile-summary-cards">
+  <a style="position: absolute; right: 0;top:0;" href="https://github.com/powerkaifu/github-profile-summary-cards">
     <img
       width="200"
       src="https://raw.githubusercontent.com/powerkaifu/github-profile-summary-cards/master/profile-summary-card-output/monokai/3-stats.svg"
