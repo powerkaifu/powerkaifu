@@ -23,13 +23,22 @@ https://www.emojiall.com/zh-hant
 
 - [⚡漫遊前端無盡海](https://powerkaifu.github.io/)🛠
 
-<a href="https://github.com/powerkaifu/github-profile-summary-cards" style="display:block;">
-  <img src="https://raw.githubusercontent.com/powerkaifu/github-profile-summary-cards/master/profile-summary-card-output/monokai/0-profile-details.svg" width="100%">
-</a>
-
-<a href="https://github.com/powerkaifu/github-profile-summary-cards" style="display:block;">
-  <img src="https://raw.githubusercontent.com/powerkaifu/github-profile-summary-cards/master/profile-summary-card-output/monokai/2-most-commit-language.svg">
-  <img src="https://raw.githubusercontent.com/powerkaifu/github-profile-summary-cards/master/profile-summary-card-output/monokai/3-stats.svg" width="50%">
-</a>
+<div style="display: flex; width: 100%">
+  <a href="https://github.com/powerkaifu/github-profile-summary-cards">
+    <img
+      src="https://raw.githubusercontent.com/powerkaifu/github-profile-summary-cards/master/profile-summary-card-output/monokai/0-profile-details.svg"
+      width="100%"
+    />
+  </a>
+  <a href="https://github.com/powerkaifu/github-profile-summary-cards">
+    <img
+      src="https://raw.githubusercontent.com/powerkaifu/github-profile-summary-cards/master/profile-summary-card-output/monokai/2-most-commit-language.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/powerkaifu/github-profile-summary-cards/master/profile-summary-card-output/monokai/3-stats.svg"
+      width="50%"
+    />
+  </a>
+</div>
 
 
