@@ -19,8 +19,6 @@ https://www.emojiall.com/zh-hant
 
 -->
 
-<marquee>歡迎您，我是跑馬燈</marquee>
-
 - [⚡漫遊前端無盡海](https://powerkaifu.github.io/)🛠
 
 <div style="display: flex; flex-wrap: wrap;">
