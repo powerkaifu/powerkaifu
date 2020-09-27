@@ -23,14 +23,14 @@ https://www.emojiall.com/zh-hant
 
 - [⚡漫遊前端無盡海](https://powerkaifu.github.io/)🛠
 
-<div style="display: flex; flex-wrap: wrap; position: relative">
+<div style="display: flex; flex-wrap: wrap;">
   <a href="https://github.com/powerkaifu/github-profile-summary-cards">
     <img
-      width="700"
+      width="650"
       src="https://raw.githubusercontent.com/powerkaifu/github-profile-summary-cards/master/profile-summary-card-output/monokai/0-profile-details.svg"
     />
   </a>
-  <a style="position: absolute; right: 0;top:0;" href="https://github.com/powerkaifu/github-profile-summary-cards">
+  <a right: 0;top:0;" href="https://github.com/powerkaifu/github-profile-summary-cards">
     <img
       width="200"
       src="https://raw.githubusercontent.com/powerkaifu/github-profile-summary-cards/master/profile-summary-card-output/monokai/3-stats.svg"
