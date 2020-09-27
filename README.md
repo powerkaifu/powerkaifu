@@ -23,14 +23,11 @@ https://www.emojiall.com/zh-hant
 
 - [⚡漫遊前端無盡海](https://powerkaifu.github.io/)🛠
 
-[![](https://raw.githubusercontent.com/powerkaifu/github-profile-summary-cards/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/powerkaifu/github-profile-summary-cards)
-
 <a href="https://github.com/powerkaifu/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/powerkaifu/github-profile-summary-cards/master/profile-summary-card-output/monokai/0-profile-details.svg"></a>
 
 
 <a href="https://github.com/powerkaifu/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/powerkaifu/github-profile-summary-cards/master/profile-summary-card-output/monokai/2-most-commit-language.svg"></a>
 
-[![](https://raw.githubusercontent.com/powerkaifu/github-profile-summary-cards/master/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/powerkaifu/github-profile-summary-cards)
+<a href="https://github.com/powerkaifu/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/powerkaifu/github-profile-summary-cards/master/profile-summary-card-output/monokai/3-stats.svg"></a>
 
-[![](https://raw.githubusercontent.com/powerkaifu/github-profile-summary-cards/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/powerkaifu/github-profile-summary-cards)
 
