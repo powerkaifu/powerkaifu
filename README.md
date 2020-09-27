@@ -26,3 +26,4 @@ https://www.emojiall.com/zh-hant
 [![](https://raw.githubusercontent.com/powerkaifu/github-profile-summary-cards/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
