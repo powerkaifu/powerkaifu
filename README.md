@@ -32,7 +32,7 @@ https://www.emojiall.com/zh-hant
   </a>
   <a right: 0;top:0;" href="https://github.com/powerkaifu/github-profile-summary-cards">
     <img
-      width="22%"
+      width="24%"
       src="https://raw.githubusercontent.com/powerkaifu/github-profile-summary-cards/master/profile-summary-card-output/monokai/3-stats.svg"
     />
   </a>
