@@ -25,4 +25,4 @@ https://www.emojiall.com/zh-hant
 
 [![](https://raw.githubusercontent.com/powerkaifu/github-profile-summary-cards/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![](https://raw.githubusercontent.com/powerkaifu/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/powerkaifu/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/powerkaifu/github-profile-summary-cards-example/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
