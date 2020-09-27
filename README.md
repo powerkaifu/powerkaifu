@@ -27,7 +27,6 @@ https://www.emojiall.com/zh-hant
   <a href="https://github.com/powerkaifu/github-profile-summary-cards">
     <img
       src="https://raw.githubusercontent.com/powerkaifu/github-profile-summary-cards/master/profile-summary-card-output/monokai/0-profile-details.svg"
-      width="100%"
     />
   </a>
   <a href="https://github.com/powerkaifu/github-profile-summary-cards">
