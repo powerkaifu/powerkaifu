@@ -26,8 +26,6 @@ https://www.emojiall.com/zh-hant
 <a href="https://github.com/powerkaifu/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/powerkaifu/github-profile-summary-cards/master/profile-summary-card-output/monokai/0-profile-details.svg"></a>
 
 
-<a href="https://github.com/powerkaifu/github-profile-summary-cards" style="display:inline-block"><img src="https://raw.githubusercontent.com/powerkaifu/github-profile-summary-cards/master/profile-summary-card-output/monokai/2-most-commit-language.svg"></a>
-
-<a href="https://github.com/powerkaifu/github-profile-summary-cards" style="display:inline-block"><img src="https://raw.githubusercontent.com/powerkaifu/github-profile-summary-cards/master/profile-summary-card-output/monokai/3-stats.svg"></a>
+<a href="https://github.com/powerkaifu/github-profile-summary-cards" style="display:inline-block"><img src="https://raw.githubusercontent.com/powerkaifu/github-profile-summary-cards/master/profile-summary-card-output/monokai/2-most-commit-language.svg"><img src="https://raw.githubusercontent.com/powerkaifu/github-profile-summary-cards/master/profile-summary-card-output/monokai/3-stats.svg"></a>
 
 
