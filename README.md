@@ -19,7 +19,7 @@ https://www.emojiall.com/zh-hant
 
 -->
 
-- 前往部落格：[⚡飄遊無涯前端](https://powerkaifu.github.io/)🛠
+- 前往部落格：[⚡浪遊無涯前端](https://powerkaifu.github.io/)🛠
 
 <div style="display: flex; flex-wrap: wrap;">
   <a href="https://github.com/powerkaifu/github-profile-summary-cards">
