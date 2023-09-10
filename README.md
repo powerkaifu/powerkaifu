@@ -19,8 +19,6 @@ https://www.emojiall.com/zh-hant
 
 -->
 
-- 前往部落格：[⚡樂遊前端趣](https://powerkaifu.github.io/)🛠
-
 <div style="display: flex; flex-wrap: wrap;">
   <a href="https://github.com/powerkaifu/github-profile-summary-cards">
     <img
