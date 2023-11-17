@@ -20,8 +20,9 @@ https://www.emojiall.com/zh-hant
 -->
 
 ### 專長
-🍿: 123456789
-🏕️: 12345677
+
+🍿: 123456789 <br>
+🏕️: 12345677 <br>
 
 
 <div style="display: flex; flex-wrap: wrap;">
