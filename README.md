@@ -21,8 +21,8 @@ https://www.emojiall.com/zh-hant
 
 ### 專長
 
-🍿: 123456789 <br>
-🏕️: 12345677 <br>
+🍿: 輔仁大學軟創二年級 <br>
+🏕️: 張凱富 <br>
 
 
 <div style="display: flex; flex-wrap: wrap;">
