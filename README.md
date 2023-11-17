@@ -19,6 +19,11 @@ https://www.emojiall.com/zh-hant
 
 -->
 
+### 專長
+🍿: 123456789
+🏕️: 12345677
+
+
 <div style="display: flex; flex-wrap: wrap;">
   <a href="https://github.com/powerkaifu/github-profile-summary-cards">
     <img
