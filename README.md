@@ -19,10 +19,6 @@ https://www.emojiall.com/zh-hant
 
 -->
 
-### 履歷
-
-🍿: 輔仁大學軟創二年級 <br>
-🏕️: 張凱富 <br>
 
 
 <div style="display: flex; flex-wrap: wrap;">
