@@ -19,7 +19,7 @@ https://www.emojiall.com/zh-hant
 
 -->
 
-### 專長
+### 履歷
 
 🍿: 輔仁大學軟創二年級 <br>
 🏕️: 張凱富 <br>
