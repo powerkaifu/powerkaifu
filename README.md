@@ -20,6 +20,7 @@ https://www.emojiall.com/zh-hant
 -->
 
 <img src="https://i.imgur.com/ZVIpYB9.png">
+<img src="https://i.imgur.com/qX92uPV.png">
 
 <div style="display: flex; flex-wrap: wrap;">
   <a href="https://github.com/powerkaifu/github-profile-summary-cards">
