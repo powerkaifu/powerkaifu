@@ -20,8 +20,8 @@ https://www.emojiall.com/zh-hant
 -->
 
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="https://i.imgur.com/ZVIpYB9.png" width="50%">
-  <img src="https://i.imgur.com/qX92uPV.png" width="50%">
+  <img src="https://i.imgur.com/ZVIpYB9.png" width="49%">
+  <img src="https://i.imgur.com/qX92uPV.png" width="49%">
 </div>
 
 <div style="display: flex; flex-wrap: wrap;">
